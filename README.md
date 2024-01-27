@@ -1,2 +1,3 @@
-# A658479A410EFCC1
-Quantum Preference Query
+# Quantum Preference Query
+
+This is the code repository of submission "Quantum Preference Query".
